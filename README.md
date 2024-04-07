@@ -14,7 +14,7 @@ When I'm not coding, I often try my hands on blender, a 3d rendering software .<
 ## Connect with me 
 
 <p align="left">
-<a href="https://linkedin.com/in/neeraj gokhale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj gokhale" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neeraj-gokhale/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj gokhale" height="30" width="40" /></a>
 </p>
 
 ## Tech Stack
