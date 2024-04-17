@@ -4,7 +4,7 @@ I'm Neeraj, a passionate tech enthusiast.
 ## About Me
 
 <img align="right" alt="codingGIF" height="250" width="350" src= "https://media.licdn.com/dms/image/D4D12AQH4mcQALwgZ7Q/article-cover_image-shrink_600_2000/0/1691989932071?e=2147483647&v=beta&t=uwm5lxFiqURXuzG_xnf9hrIr-_sojSaQ4ggruUAYsmU">
-I've loved computers and coding since I was young. It's amazing how we can make cool stuff with them! I enjoy learning new things, like writing code or building apps. There's always something new to discover, like different types of code or ways to protect computers. I like solving problems and seeing my creations come to life!
+I've loved computers and coding since I was a child. It's amazing how we can make cool stuff with them! I enjoy learning new things, like writing code or building apps. There's always something new to discover, like different types of code or ways to protect computers. I like solving problems and seeing my creations come to life!
 </br>.</br>
 I am skilled in programming languages like C, C++, Java and Python.</br> Also familiar with using HTML, CSS and Bootstrap.
 </br>.</br>
