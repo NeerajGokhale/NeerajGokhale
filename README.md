@@ -3,7 +3,7 @@ I'm Neeraj, a passionate tech enthusiast.
 
 ## About Me
 
-<img align="right" alt="codingGIF" height="250" width="350" src= "https://www.google.com/imgres?q=animated%20coding%20gif%20for%20github&imgurl=https%3A%2F%2Fuser-images.githubusercontent.com%2F74038190%2F212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif&imgrefurl=https%3A%2F%2Fgithub.com%2Fmdazfar2%2FCool-GIFs-For-GitHub&docid=nxNmoQzSx2czBM&tbnid=MwozBsUeOfn96M&vet=12ahUKEwiEjOiWvI6TAxUgk68BHd0FGxIQnPAOegQIFxAB..i&w=498&h=249&hcb=2&ved=2ahUKEwiEjOiWvI6TAxUgk68BHd0FGxIQnPAOegQIFxAB">
+<img align="right" alt="codingGIF" height="250" width="350" src= "https://wallpapers.com/images/hd/web-developerat-work-illustration-png-9wxnnbpbatv5o2dn.png">
 I've loved computers and coding since I was a child. It's amazing how we can make cool stuff with them! I enjoy learning new things, like writing code or building apps. There's always something new to discover, like different types of code or ways to protect computers. I like solving problems and seeing my creations come to life!
 </br>.</br>
 I am skilled in programming languages like C, C++, Java and Python.</br> Also familiar with using HTML, CSS and Bootstrap.
