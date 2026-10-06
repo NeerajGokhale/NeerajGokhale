@@ -7,8 +7,6 @@ I'm Neeraj, a passionate tech enthusiast.
 I've loved computers and coding since I was a child. It's amazing how we can make cool stuff with them! I enjoy learning new things, like writing code or building apps. There's always something new to discover, like different types of code or ways to protect computers. I like solving problems and seeing my creations come to life!
 </br>.</br>
 I am skilled in programming languages like C, C++, Java and Python.</br> Also familiar with using HTML, CSS and Bootstrap.
-</br>.</br>
-When I'm not coding, I often try my hands on blender, a 3d rendering software .</br>
 </br>
 
 ## Connect with me 
